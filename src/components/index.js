@@ -66,6 +66,7 @@ function contains(rec1, rec2) {
 
 const H = 0;
 const W = 0;
+
 function normalise(rec) {
 	return {
 		x1: rec.top
